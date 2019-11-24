@@ -10,7 +10,7 @@
   "keywords": [
     "webpack"
   ],
-  "author": "@LeonidasEsteban",
+  "author": "@grafijoss",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "7.4.5",
