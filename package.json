@@ -19,7 +19,8 @@
     "build:dll": "webpack --config ./dll/webpack.dll.config.js",
     "build:prevent-duplication-fast": "webpack --config ./dll/webpack.config.js",
     "build:dynamic:dll": "webpack --config ./dynamic-imports/webpack.dll.config.js",
-    "build:dynamic": "webpack --config ./dynamic-imports/webpack.config.js"
+    "build:dynamic": "webpack --config ./dynamic-imports/webpack.config.js",
+    "build:sass": "webpack-dev-server"
   },
   "keywords": [
     "webpack"
