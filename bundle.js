@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "bb0d728972b415bb4598";
+/******/ 	var hotCurrentHash = "05f991267599f6ed8e67";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -258,7 +258,7 @@
 /******/ 				};
 /******/ 			});
 /******/ 			hotUpdate = {};
-/******/ 			var chunkId = "home";
+/******/ 			var chunkId = "null";
 /******/ 			// eslint-disable-next-line no-lone-blocks
 /******/ 			{
 /******/ 				/*globals chunkId */
